@@ -1,0 +1,6 @@
+[submodule "xDrip"]
+	path = xDrip
+	url = https://github.com/NightscoutFoundation/xDrip
+[submodule "Spike"]
+	path = Spike
+	url = https://github.com/SpikeApp/Spike
